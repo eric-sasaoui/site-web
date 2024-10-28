@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Choisir son appareil photo</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 1em;
+            text-align: center;
+        }
+        main {
+            padding: 20px;
+            max-width: 800px;
+            margin: auto;
+        }
+        .product {
+            margin-bottom: 30px;
+            padding: 20px;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+        }
+        .product h2 {
+            color: #333;
+        }
+        .product p {
+            margin-top: 0;
+        }
+        .product img {
+            display: block;
+            margin: auto;
+            max-width: 100%;
+            height: auto;
+            border-radius: 8px;
+            margin-top: 10px;
+        }
+        .affiliation-link {
+            display: inline-block;
+            padding: 10px 15px;
+            background-color: #0073e6;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 5px;
+            margin-top: 10px;
+        }
+        .affiliation-link:hover {
+            background-color: #005bb5;
+        }
+        .footer-banner {
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+            background-color: #333; 
+            color: #fff; 
+            font-size: 12px; 
+            text-align: center;
+            padding: 10px;
+            z-index: 1000; 
+        }
+        
+        .footer-banner a {
+            color: #f1c40f; 
+            text-decoration: none;
+            margin: 0 5px;
+        }
+        
+        .footer-banner a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Comment commencer la photographie ?</h1>
+</header>
+    
+
+<main>
+    <img src="https://st2.depositphotos.com/3651191/50798/i/450/depositphotos_507989186-stock-photo-colorful-summer-view-fusine-lake.jpg" alt="Photo paysage" style="display: block; margin: auto;">
+    <p>
+        Se lancer dans la photographie peut sembler complexe, car le choix d'équipement est vaste et chaque type d'appareil offre des fonctionnalités spécifiques. Sur le marché, on trouve principalement deux catégories d’appareils : les appareils hybrides (ou mirrorless) et les appareils reflex. Les reflex, équipés de viseurs optiques, sont souvent utilisés pour leur robustesse et leur autonomie. Les appareils hybrides, quant à eux, sont compacts et légers, tout en offrant une qualité d’image exceptionnelle, ce qui les rend particulièrement appréciés des créateurs de contenu.
+    </p>
+    <p>
+        Si vous cherchez un appareil polyvalent pour débuter, nous vous recommandons le Sony ZV-E10. Cet hybride de monture E est spécialement conçu pour les créateurs de contenu et les amateurs de photo qui souhaitent capturer des images et des vidéos de haute qualité. Le ZV-E10 est doté d’un capteur APS-C de 24,2 mégapixels, d’un écran orientable idéal pour le vlogging et d’un autofocus performant pour ne jamais manquer un moment important.
+    </p>
+    <p>    
+        Pour accompagner ce boîtier, l’objectif Sigma 30mm F/1.4 est un excellent choix. Cet objectif lumineux, avec une grande ouverture de f/1.4, permet de réaliser des portraits au bokeh agréable et de capturer des détails même en basse lumière. Parfaitement adapté à la monture E du Sony ZV-E10, il offre une belle netteté et une qualité d’image qui raviront aussi bien les débutants que les utilisateurs plus avancés.
+    </p>
+    <p>    
+        Avec le Sony ZV-E10 et le Sigma 30mm F/1.4, vous avez un ensemble idéal pour démarrer la photographie et explorer votre créativité !
+    </p>
+
+    <section class="product">
+        <h2>Sony ZV-E10</h2>
+        <img src="https://www.panajou.fr/13844-large_default/sony-zve1016-50.jpg" alt="Sony ZV-E10" style="width: 200px;">
+        <p>Le Sony ZV-E10 est un appareil photo hybride compact spécialement conçu pour le vlogging et les créateurs de contenu. Doté d'un capteur APS-C de 24,2 mégapixels, il offre une excellente qualité d'image ainsi qu'une superbe performance en basse lumière. Son écran orientable facilite le cadrage en mode selfie, et son autofocus rapide et précis permet de garder le sujet toujours net. Le ZV-E10 est idéal pour ceux qui cherchent à améliorer leur contenu vidéo avec un appareil portable et polyvalent.</p>
+        <a href="VOTRE_LIEN_AFFILIATION_SONY" class="affiliation-link" target="_blank">Acheter le Sony ZV-E10</a>
+    </section>
+
+    <section class="product">
+        <h2>Objectif Sigma 30mm F/1.4</h2>
+        <img src="https://cdn.dxomark.com/wp-content/uploads/2017/09/Sigma-30mm-f-1.4-DC-DN-C-lens-review-Sony-E-top-ranking-prime.jpg" alt="Sigma 30mm F/1.4" style="width: 200px;">
+        <p>L'objectif Sigma 30mm F/1.4 est une excellente option pour les utilisateurs de Sony en monture E. Avec son ouverture maximale de f/1.4, il offre une belle profondeur de champ et un superbe effet bokeh, parfait pour les portraits et la photographie en basse lumière. Sa construction optique de haute qualité garantit des images nettes et détaillées, même dans des conditions de faible luminosité. Cet objectif est un complément idéal au Sony ZV-E10 pour des prises de vue de haute qualité.</p>
+        <a href="VOTRE_LIEN_AFFILIATION_SIGMA" class="affiliation-link" target="_blank">Acheter le Sigma 30mm F/1.4</a>
+        
+    </section>
+    <br>
+    <br>
+    <br>
+    
+</main>
+
+</body>
+
+<footer>
+    
+    <div class="footer-banner">
+      <p>&copy; 2024 Eric.sasaoui.blog. Tous droits réservés.</p>
+      <p>Ce site utilise des liens d'affiliation de chez <a href="https://www.amazon.fr/">Amazon.fr</a> . Nous pouvons toucher une commission sur vos achats, sans frais supplémentaires pour vous. <a href="mention-légale.html">Mentions légales</a></p>
+    </div>
+</footer>
+
+</html>
+
+
